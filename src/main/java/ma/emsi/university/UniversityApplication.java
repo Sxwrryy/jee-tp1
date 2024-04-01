@@ -29,8 +29,4 @@ public class UniversityApplication implements CommandLineRunner {
             System.out.println(p);
         });
     }
-
-
-
-
 }
